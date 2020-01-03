@@ -10,7 +10,7 @@
 %              (See Copyright and License notice in "License.txt")
 %              (See updates and version details in "Version.txt")
 %-------------------------------------------------------------------------------
-% Purpose
+% Intent
 % =======
 % MATLAB code that computes the maximum entropy (maxent) basis functions and
 % their gradients in 1D, 2D and 3D.
